@@ -21,7 +21,7 @@ Developed by **Ogabek Ruziev**.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/ruziev1d/veizurX.git](https://github.com/ruziev1d/veizurX.git)
+git clone https://github.com/ruziev1/veizurX.git
 
 # Change directory
 cd veizurX
