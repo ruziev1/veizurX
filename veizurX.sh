@@ -35,8 +35,8 @@ banner() {
     echo "    ╚═══╝  ╚══════╝╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝"
     echo -e "${RESET}"
     echo -e "      ${CYAN}>> Automated Pentesting Framework <<${RESET}"
-    echo -e "         ${YELLOW}Author: Ogabek Ruziev (ruziev1d)${RESET}"
-    echo -e "         ${BOLD}Version: 1.0.1 (Patched)${RESET}"
+    echo -e "         ${YELLOW}Author: Ogabek Ruziev (ruziev1)${RESET}"
+    echo -e "         ${BOLD}Version: 1.0 (Patched)${RESET}"
     echo ""
 }
 
